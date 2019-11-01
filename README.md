@@ -1,0 +1,2 @@
+# kaggle_statefarm_distracted_driver_detection
+kaggle_statefarm_distracted_driver_detection 요약 및 스터디 자료입니다.
