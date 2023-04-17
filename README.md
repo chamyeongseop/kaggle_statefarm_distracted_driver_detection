@@ -1,6 +1,5 @@
 # 데이터 탐색적 분석
 
-
 ```
 # (Optional) 가상환경 설치하기
 pip install virtualenv
