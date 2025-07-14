@@ -17,7 +17,6 @@ nohup jupyter notebook &
 # 웹브라우저를 통해 http://localhost:8000로 접속한 후,
 # 01_EDA/EDA.ipynb 파일을 실행한다.
 ```
-
 # Baseline 모델
 
 ```
