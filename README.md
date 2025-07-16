@@ -18,7 +18,6 @@ nohup jupyter notebook &
 # 01_EDA/EDA.ipynb 파일을 실행한다.
 ```
 # Baseline 모델
-
 ```
 cd 02_Baseline
 
